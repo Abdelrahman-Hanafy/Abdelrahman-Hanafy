@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ASP.NET API and React.JS for Fullstack 
+- 🤔 I’m looking for help with landing Software Engineering Intern position
+- 💬 Ask me about data analysis with python
+- 📫 How to reach me: E-mail @ Abdelrahman.m.moustafa@gmail.com || Discord @ Hanafy#5642
 <!--
 **Abdelrahman-Hanafy/Abdelrahman-Hanafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
